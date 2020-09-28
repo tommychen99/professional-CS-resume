@@ -8,3 +8,4 @@ AA in Biological and Physical Sciences(in proress), 2017 - Current
 
 ## Skills
 - **Primary languages:** Java, C++
+- **Foreign languages:** English, Chinese
