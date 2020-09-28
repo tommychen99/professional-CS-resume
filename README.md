@@ -11,5 +11,5 @@ AA in Biological and Physical Sciences(in proress), 2017 - Current
 - **Foreign languages:** English, Chinese
 
 ## Projects
-- **CS111 FInal Project: Library Management Program
-- **CS112 FInal Project: Calculator
+- **CS111 FInal Project:** Library Management Program
+- **CS112 FInal Project:** Calculator
