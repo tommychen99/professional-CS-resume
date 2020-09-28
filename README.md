@@ -9,3 +9,7 @@ AA in Biological and Physical Sciences(in proress), 2017 - Current
 ## Skills
 - **Primary languages:** Java, C++
 - **Foreign languages:** English, Chinese
+
+## Projects
+- **CS111 FInal Project: Library Management Program
+- **CS112 FInal Project: Calculator
