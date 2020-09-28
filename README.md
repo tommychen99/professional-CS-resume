@@ -12,4 +12,4 @@ AA in Biological and Physical Sciences(in proress), 2017 - Current
 
 ## Projects
 - **CS111 FInal Project:** Library Management Program
-- **CS112 FInal Project:** Calculator
+- **CS112 FInal Project:** Calculator Program
